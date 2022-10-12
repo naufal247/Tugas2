@@ -1,0 +1,59 @@
+body {
+	margin: auto;
+	background-color: #55552b ;
+	font: 18px calibri, sans-serif;
+}
+
+section {
+	height: 185vh;
+	background-image: url(koran.jpg);
+	background-size: cover;
+}
+
+ul {
+	list-style: none;
+	padding: 15px;
+}
+
+.container  {
+	width: 800px;
+	margin: auto;
+}
+.header {
+	list-style: none;
+	padding: 30px; 
+}
+
+.header ul li {
+	display: inline-block;
+	margin-top: -20px;
+	margin-right: 20px 
+}
+
+.header a {
+	text-decoration-style: none;
+	color: saddlebrown;
+	font-weight: bold;
+}
+
+.banner {
+	height: 300px;
+	background-image: url(malang.jpg);
+	background-position: 0 -50px;
+	border-top: 5px solid #8B4513;
+	border-bottom: 5px solid #8B4513;
+}
+
+.isi {
+	padding: 15px;
+	}
+
+p {
+	font-size: 12pt;
+}
+
+a {
+	text-decoration-style: none;
+	color: saddlebrown;
+	font-weight: bold;
+}
